@@ -1,8 +1,6 @@
 
 
-/* =========================
-   1. RESET
-========================= */
+
 
 * {
     margin: 0;
@@ -30,9 +28,7 @@ img {
 }
 
 
-/* =========================
-   2. HEADER
-========================= */
+
 
 header {
     width: 100%;
@@ -49,9 +45,6 @@ header {
 }
 
 
-/* =========================
-   3. LOGO
-========================= */
 
 .logo img {
     display: block;
@@ -61,13 +54,10 @@ header {
 }
 
 
-/* =========================
-   4. NAVBAR
-========================= */
-
 nav {
     width: 604px;
     height: 37px;
+    margin-right: 81px;
 }
 
 nav ul {
@@ -92,7 +82,7 @@ nav ul li:first-child a {
     width: 68px;
     height: 37px;
     padding: 10px 14px;
-    border-radius: 10px;
+    border-radius: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
